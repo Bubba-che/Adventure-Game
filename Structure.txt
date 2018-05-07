@@ -1,0 +1,11 @@
+                                               main
+                                                 v
+                                               start
+                                 v               v               v
+                             columns.d<        death           prompt
+                                 v     ^                         ^
+                               room    ^                         ^
+                 v          v          v                         ^
+               player     ment       grid-                       ^
+                            v                                    ^
+                            > > > > > > > > > > > > > > > > > > >^
